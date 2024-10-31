@@ -16,7 +16,7 @@ Al = 5;                         % Alargamiento ()
 kappa = 30;                     % Flecha (grados)
 eps = -3;                       % Torsion (grados)
 alpha = 5;                      % Angulo de ataque (grados)
-
+S = 1;
 % Conversion a radianes de los angulos
 
 kappa = kappa*pi/180;
